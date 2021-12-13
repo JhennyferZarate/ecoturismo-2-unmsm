@@ -15,6 +15,7 @@ module.exports = {
         database: "buafjdbqroblshuld81t"
     }
 
+    mysql://ba2c0bb268472d:a0d5ee23@us-cdbr-east-05.cleardb.net/heroku_6e26633d6613594?reconnect=true  
     MYSQL_HOST       = us-cdbr-east-05.cleardb.net
     MYSQL_USER       = ba2c0bb268472d
     MYSQL_PASSWORD   = a0d5ee23
